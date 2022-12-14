@@ -8,12 +8,12 @@ namespace Program
         static void Main(string[] args)
         {
             int[,] array2d = new int[20, 20];
+            Random rnd = new Random();
 
             for (int i = 0; i < array2d.GetLength(0); i++)
             {
                 for (int j = 0; j < array2d.GetLength(1); j++)
                 {
-                    Random rnd = new Random();
                     array2d[i, j] = rnd.Next(1000);
                     Console.Write("{0,3} ", array2d[i, j]);
                 }
