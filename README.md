@@ -1,6 +1,6 @@
 # 2D_Array.cs
 
-This very simple console application displays a two-dimensional array with random numbers from 1 - 999. Then prints out the smallest and largest numbers in generated array showing the exact place in the array with coordinates. Then sorts generated array and prints it out in ascending order.
+This very simple console application creates and displays a two-dimensional array with random numbers from 1 - 999. Then prints out the smallest and largest numbers in generated array showing the exact place in the array with coordinates. Then sorts generated array and prints it out in ascending order.
 
 To run application:
 
