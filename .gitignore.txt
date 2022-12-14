@@ -1,0 +1,39 @@
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+x64/
+build/
+bld/
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio files
+*.user
+*.sln
+*.suo
+*.userprefs
+*.csproj
+*.csproj.user
+*.vssscc
+
+# Visual Studio cache files
+*.VC.db
+*.VC.VC.opendb
+
+# Visual Studio C# files
+*.cs
+
+# Visual Studio LightSwitch files
+GeneratedArtifacts/
+
+# Team Foundation files
+[Cc]ache/
+[Vv]iews/
+[Ll]ocal[Ss]ettings/
+[Ss]cc/
+
+# Others
+*.nupkg
+*.pidb
+*.log
